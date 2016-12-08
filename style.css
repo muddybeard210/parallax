@@ -1,0 +1,13 @@
+.parallax-window {
+    height: 500px;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallax-window p {
+  color: white;
+  font-size: 50px;
+  background-color: rgba(144, 144, 144, 0.73);
+}
